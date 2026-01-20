@@ -1,0 +1,106 @@
+¡Perfecto! 👍
+Vamos a configurar React Native correctamente y elegir entre Expo o CLI de forma clara, sin líos.
+
+🆚 Expo vs React Native CLI (explicado fácil)
+🟢 EXPO (RECOMENDADO si estás empezando)
+
+✔️ Configuración rápida
+✔️ No necesitas Android Studio al inicio
+✔️ Menos errores
+✔️ Ideal para aprender y proyectos medianos
+
+❌ Menos acceso a código nativo (aunque hoy en día es mucho menos problema)
+
+👉 Te recomiendo Expo salvo que sepas que necesitas código nativo.
+
+🔵 REACT NATIVE CLI (más avanzado)
+
+✔️ Control total nativo
+✔️ Ideal si usarás SDKs nativos específicos
+❌ Configuración más compleja
+❌ Android Studio + JDK obligatorios
+
+🚀 OPCIÓN A: CONFIGURAR EXPO (recomendado)
+1️⃣ Instalar Node.js (si no lo tienes)
+
+Descárgalo desde:
+
+https://nodejs.org
+ (versión LTS)
+
+Comprueba:
+
+node -v
+npm -v
+
+2️⃣ Crear proyecto Expo
+
+Desde la carpeta donde quieras el proyecto:
+
+npx create-expo-app myApp
+cd myApp
+
+3️⃣ Ejecutar el proyecto
+npm start
+
+
+Se abrirá Expo en el navegador.
+
+Opciones para ver la app:
+
+📱 Expo Go (Android / iOS)
+
+🤖 Emulador Android (opcional)
+
+🌐 Web
+
+4️⃣ Abrir en VS Code
+code .
+
+5️⃣ Estructura básica (Expo)
+/app
+/assets
+App.js
+package.json
+
+🧩 OPCIÓN B: CONFIGURAR REACT NATIVE CLI
+1️⃣ Requisitos obligatorios
+
+Node.js LTS
+
+JDK 17
+
+Android Studio (SDK + Emulator)
+
+Variables de entorno configuradas
+
+👉 Mucho más largo (solo lo recomiendo si lo necesitas).
+
+⚠️ Decisión recomendada para ti
+
+Por lo que veo:
+
+Estás empezando con Git + VS Code
+
+Estás aprendiendo React Native
+
+👉 Usa EXPO ahora
+👉 Más adelante puedes ejectar a CLI si lo necesitas
+
+🧠 Flujo de trabajo recomendado (con Git)
+git add .
+git commit -m "Initial Expo setup"
+git push
+
+❓ Antes de seguir dime:
+
+1️⃣ ¿Estás empezando el proyecto ahora o ya tenías uno creado?
+2️⃣ ¿Quieres Expo Go o emulador Android?
+3️⃣ ¿Windows 10 u 11?
+
+Con eso te hago la configuración exacta paso a paso para tu caso 💪
+
+Has alcanzado el límite del plan Free para GPT-5.
+Necesitas GPT-5 para continuar este chat porque hay un archivo adjunto. Tu límite se restablecerá mañana después de las 1:55.
+Nuevo chat
+M
